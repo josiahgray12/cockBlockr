@@ -1,5 +1,6 @@
 {
     "name": "CockBlockr",
+    "options_page": "options.html",
     "version": "1.0",
     "description": "Nudity detection.",
     "permissions": ["activeTab", "declarativeContent", "storage"],
